@@ -25,6 +25,7 @@
     "fluent-json-schema": "^4.2.1",
     "joi": "^17.10.0",
     "lodash": "^4.17.21",
+    "lru-cache": "^11.0.2",
     "mongoose": "^7.5.0"
   },
   "devDependencies": {
